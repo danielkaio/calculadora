@@ -14,5 +14,5 @@ body{
     justify-content: center;
     text-align: center;
     color: #fff;
-    background: #F23030
+    background: linear-gradient(to right, rgb(95, 44, 130), rgb(73, 160, 157));
 }
